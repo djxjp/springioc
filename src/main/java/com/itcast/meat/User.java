@@ -3,6 +3,8 @@ package com.itcast.meat;
 public class User {
     private String name;
 
+    private String pass;
+
     public User(String name){
         this.name=name;
     }
